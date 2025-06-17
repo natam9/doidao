@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 20px; background-color: #eef; }
+h1 { color: #2a4d69; }
+footer { margin-top: 20px; font-size: small; }
+nav ul { list-style-type: none; padding: 0; }
+nav li { display: inline; margin-right: 10px; }
